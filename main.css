@@ -1,0 +1,82 @@
+h1 {
+  color: red;
+  text-align: center;
+  width: 500px;
+}
+p{
+  text-align: center;
+  line-height: 4;
+  width: 80px;
+  background-color: #ff0000;
+}
+paragraph{
+  text-align: left;
+  width: 400px;
+  line-height: 4;
+}
+h4{
+  text-align: center;
+}
+div {
+  background-color: white;
+  width: 600px;
+  height: 260px;
+  border: 2px solid rgb(0, 0, 0);
+  padding: 4px;
+  margin: 2px;
+  border-radius: 16px;
+  position:absolute;
+  top: 80px;
+  right: 80px;
+  left: 130px;
+}
+h5{
+  font-size: 25px;
+}
+img{
+  width: 80px;
+  height: 80px;
+  background-color: white;
+}
+h6{
+  font-size: 20px;
+  left: 150px;
+  right: 60px;
+}
+h2{
+  font-size: 20px;
+  right: 300px;
+  top: 30px;
+}
+.callofduty{
+  width: 200px;
+  height: 200px;
+}
+.minecraft{
+  width: 200px;
+  height: 200px;
+}
+.gtav{
+  width: 500px;
+  height: 100px;
+}
+.thesims{
+  width: 200px;
+  height: 200px;
+}
+.pubg{
+  width: 200px;
+  height: 200px;
+}
+.terraria{
+  width: 200px;
+  height: 200px;
+}
+.reddeadredemption2{
+  width: 200px;
+  height: 200px;
+}
+.theelderscrollsv{
+  width: 200px;
+  height: 200px;
+}
